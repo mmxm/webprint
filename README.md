@@ -26,6 +26,24 @@ graph TD
 
 ---
 
+## 📱 Aperçus de l'Interface
+
+### Portail Invité (Mobile)
+L'interface utilisateur s'adapte parfaitement aux mobiles et permet de recadrer, pivoter et prévisualiser sa photo :
+
+<p align="center">
+  <img src="screenshots/client_portal.png" width="350" alt="Portail Invité Mobile">
+</p>
+
+### Console d'Administration & Calibrage
+L'administration sécurisée permet de suivre l'état de l'imprimante en temps réel, d'ajuster les contrastes/couleurs et de surveiller la file d'attente :
+
+<p align="center">
+  <img src="screenshots/admin_dashboard.png" width="750" alt="Console Administration">
+</p>
+
+---
+
 ## ✨ Caractéristiques Principales
 
 ### 📸 Expérience Invité & Recadrage Fluide
