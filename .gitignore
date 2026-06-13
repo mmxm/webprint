@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+images_temporaires/
+images_originales/
+bdd_boite.json
+config_boite.json
+venv/
+*.zip
+*.log
